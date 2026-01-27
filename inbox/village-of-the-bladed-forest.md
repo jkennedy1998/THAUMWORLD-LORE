@@ -24,6 +24,11 @@ STATUS: draft
 ### ENVIRONMENT
 - environment / terrain:
 - climate:
+- temperature ranges (min/max):
+  - spring:
+  - summer:
+  - fall:
+  - winter:
 - hazards:
 - land utilization:
 - water source:
