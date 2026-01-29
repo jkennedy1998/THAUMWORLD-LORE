@@ -1,4 +1,4 @@
-# galaxy
+﻿# galaxy
 > a cluster of solar_systems 
 > > scale : galaxy
 > > ages : proto_galaxy, star_burst, main_phase_1, main_phase_2, quenching, red, post_red

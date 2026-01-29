@@ -1,4 +1,4 @@
-# organization
+﻿# organization
 > a one line summary of the file ( EX : "how files are organized" )
 > > scale : design
 > > age : meta
@@ -72,7 +72,7 @@ this is defined in the file_header section of any index.md file
 > links to subfiles within an index.md file
 
 Within any spatial scale folder (galaxy, solar_system, celestial_body, map, region), 
-content types are represented as sibling Markdown files that live in the same folder as the folder�s index.md.
+content types are represented as sibling Markdown files that live in the same folder as the folder’s index.md.
 > geography.md, life.md
 
 this file type is called a facet.

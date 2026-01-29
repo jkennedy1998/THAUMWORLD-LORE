@@ -1,4 +1,4 @@
-# sample_formatting
+﻿# sample_formatting
 > sample oneline description of this page's main contents
 > > scale : design
 > > age : meta
