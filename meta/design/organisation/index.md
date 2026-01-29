@@ -3,7 +3,7 @@
 > > scale : design
 > > age : meta
 > > ages : meta
-> > facets : facet_example.md
+> > facets : [facet_example](facet_example.md)
 
 ---
 

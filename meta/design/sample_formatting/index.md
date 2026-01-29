@@ -1,5 +1,9 @@
-# sample_page_title
+# sample_formatting
 > sample oneline description of this page's main contents
+> > scale : design
+> > age : meta
+> > ages : meta
+> > facets : none
 
 content can be written like this, with no markdown for the body copy scale of text. 
 the first paragraph under the title should define the content.
