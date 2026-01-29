@@ -1,9 +1,15 @@
 ﻿# organization
 > a one line summary of the file ( EX : "how files are organized" )
+
 > > scale : design
+
 > > age : meta
+
 > > ages : meta
-> > facets : [facet_example](facet_example.md)
+
+> > facets : 
+      facet_example : https://www.thaumworld.world/meta/design/organisation/facet_example
+
 
 ---
 
@@ -27,16 +33,26 @@ each folder has an index.md file   in it that is the "page" for the folder's gen
 this repos file hiearchy : 
 
 > meta : out of universe material
+
 > > design : notes about how im designing things because it helps to write it all out
+
 > > migration : files id like to be reformatted to fit this scructured system
+
 > > todo : things id like to write about next
 
+
 > universe : information on a universal level. physics, magic, ect.
+
 > > galaxy : information on a galaxy level. groups of planets, space history, space culture
+
 > > solar_system : information on a solar system level. groups of planet
+
 > > > celestial_body : information of the level of suns, planets, moons, asteroids, spaceships far outside the atmospheres.
+
 > > > > map : information of the level of a partitioned celestial_body piece, with specified regions
+
 > > > > > region : information of sections of the map to the approximate scale of an ~2500 foot long cube
+
 
 ---
 
@@ -51,8 +67,11 @@ between those lines are tags that give context.
 those tag types are as follows.
 
 > > scale : the level of hierarchy in the folder structure. ( EX : galaxy )
+
 > > age : when in time a note exists ( EX : name_of_age )
+
 > > ages : the different types of age the child contents can reference ( EX : name_of_age_1 , name_of_age_2 )
+
  
 ---
 
