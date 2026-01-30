@@ -17,6 +17,12 @@ on the south border of the bladed_forest.
 
 ## decomposers
 
+### carnivorous_lichen
+
+**ecological_role**: decomposer, parasitic scavenger
+
+this cold-adapted lichen thrives on decaying plant matter, but also slowly infiltrates living tissue, turning partially carnivorous. it spreads across dead wood and weakened plants, blending the line between decay and predation.
+
 ---
 
 ## producers
@@ -72,6 +78,13 @@ in the warm months these come out and make a loud humming sound by rubbing their
 
 ## consumer_2
 
+### blade_glider
+
+**preys_on**: small birds, insects, carcasses
+
+a feathered reptilian glider, resistant to sharp foliage, climbs icy blades and glides with leathery half-wings. 
+it scavenges and hunts, in constant evolutionary competition with birds, driving both toward greater intelligence.
+
 ---
 
 ## consumer_3
@@ -106,9 +119,25 @@ their clever nature makes them responsive to human interaction, and many village
 
 ## consumer_4
 
-feline
+### bladed_snout_stalker
+
+**preys_on**: golden_ground_monkey, hard_feather_fisher_bird, foliage_shredder_beetle
+
+descended from rodent-like ancestors, these sleek predators have adapted to the bladed forest's sharp environment. 
+they are known for using blade-shaped foliage as tools, swatting at prey or dislodging insects. 
+their thick fur and burrowing instincts allow them to ambush from snow, and they possess problem-solving abilities. 
+while not intelligent enough to interact with villagers, they avoid the village, recognizing it as a no-go zone. 
+they remain an unpredictable wilderness menace, stalking prey with a mix of instinct and rudimentary cunning.
+
+### bladed_forest_glider
+
+**preys_on**: golden_ground_monkey, hard_feather_fisher_bird, foliage_shredder_beetle
+
+These feathered gliders hunt in coordinated packs, like vicious arial menaces about the size of a wolf.
+Their dense feathering protects them from ice and blades. They glide silently and harry prey, 
+pushing the evolutionary race between birds and reptiles forward. Villagers and snout stalkers alike hunt them to manage their population.
+they have a hard semi-long beak like mouth with teeth.
 
 ---
 
-## consumer_x
 
