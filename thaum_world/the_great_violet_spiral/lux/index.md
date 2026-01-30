@@ -3,13 +3,18 @@
 
 > > scale : solar_system
 
-> > age : main_phase_2
+> > age : main_phase_1 to post_death
 
 > > ages : proto_system, proto_star, proto_planet, bombardment, ...,the_long_wait , ..., post_death
 
-> > facets : none
+> > facets : see the celestial_bodys section
 
 this needs to be written
 
 ---
 
+## celestial_bodys
+
+### gorath
+> a planet with a surface primarily filled with water or glacier.some landmass near the poles.
+https://www.thaumworld.world/thaum_world/the_great_violet_spiral/lux/gorath/

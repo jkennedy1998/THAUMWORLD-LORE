@@ -100,11 +100,17 @@ each facet should be linked within the index.md file it belongs to within the fi
 content should fall into these facet files or be put into a section within the index.md file.
 
 > geography.md
+
 > life.md
+
 > civilisation.md
+
 > dieties.md
+
 > technology.md
+
 > history.md
+
 > anecdotes.md
 
 ---

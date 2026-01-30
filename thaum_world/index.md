@@ -14,6 +14,15 @@ the biggest difference in thaum_world is the addition of the particle, thaum, an
 
 ---
 
+## galaxies
+
+### the_great_violet_spiral
+a large galaxy that contains the store of the land of fog and snow
+https://www.thaumworld.world/thaum_world/the_great_violet_spiral/
+
+
+---
+
 ## thaum
 
 Thaum is a form of matter that flows through all living things.  

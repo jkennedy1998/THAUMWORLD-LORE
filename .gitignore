@@ -1,0 +1,34 @@
+# ---- Dependencies ----
+node_modules/
+
+# ---- Env / secrets ----
+.env
+.env.*
+!.env.example
+
+# ---- Logs ----
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# ---- OS / editor ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ---- Build / cache ----
+dist/
+build/
+out/
+coverage/
+.cache/
+.tmp/
+*.tmp
+.DS_STORE
+__pycache__/
+.vs
+
+

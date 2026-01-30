@@ -5,9 +5,14 @@
 
 > > ages : proto_galaxy, star_burst, main_phase_1, main_phase_2, quenching, red, post_red
 
-> > facets : none
+> > facets : see solar_systems section
 
 this section needs to be written. this is the galaxy that contains the land of snow and fog
 
 ---
 
+## solar_systems
+
+### lux
+> a solar system similar to eath's sol system
+https://www.thaumworld.world/thaum_world/the_great_violet_spiral/lux/
