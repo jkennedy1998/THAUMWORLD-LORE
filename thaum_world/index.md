@@ -42,28 +42,37 @@ There are regions of the universe where thaum is absent, referred to as *dead zo
 
 ---
 
-## aspects_of_thaum
+## thaumic_concepts
 
 Thaum is not only energy — it also carries structure.
 
-Thaum is capable of binding to:
+Thaum is capable of binding to :
 
 - Physical forces  
+> ex :  thermal energy, static electricity, sound, light, life, conductivity
+
 - Abstract ideas  
+> ex : hate, love, sympathy, lies, death,
+
 - Biological patterns  
+> ex : dna sequences ( how creatures and places are referenced ), dna alternatives
+
 - Stored memory  
+> ex : a sent message, a situation, an event
+
 - Individual consciousness  
+> a single highly specific harmonic frequency
 
-Thaum “keeps its shape,” meaning that once it is bound to a concept, it tends to preserve that conceptual form over time.
+these are refered to as "concepts"
+each thaum particle has a concept. 
+thaum is normally mixed, and concepts are not all the same across stored thaum.
 
-Examples of thaum-bound concepts include:
+thaum can change concept over time, but slowly. 
+this conceptual change can be sped up at the cost of energy.
+thaum slowly changes over time out of entropy. 
 
-- Fire and immense heat (such as a specific star)  
-- Thoughts  
-- Genetic code  
-- Sound  
-- Electrical charges  
-- A single consciousness  
+every concept in the universe has a place on the frequency system.
+some concepts take more energy to reference than others.
 
 ---
 
@@ -104,29 +113,14 @@ Resonance is a core mechanism for how thaumic systems communicate and evolve.
 
 ## glyphs
 
-glyphs represent a concept
-each glyph has a natural frequency in thaum and in sound that can "reference" it
+glyphs represent reference to a concept
+each glyph has a sound and thaumic frequency that it resonates with
+the resonation of glyphs molds the concept of thaum. 
+this is magic at it's core.
 
-the bounds of the concepts of glyphs are as follows : 
-> a single consiousness
-> genetic code
-> energy 
-> an idea
+each conciousness can be attuned to one glyph at a time, and this can shift over time. this is attunment.  see "conciousness_and_thaum"
 
-each conciousness can be attuned to one glyph at a time, and this can shift over time. this is attunment.
-a conciousness does not have to be attuned to a glyph to cast it from a spell. 
-
----
-
-## how_someone_learns_a_glyph
-
-glyphs are learned through being able to modulate the atunement of thaum to a specific frequency as you move it through you. 
-this is comparable to working out a specific group of muscles to :
-- ability to modulate the frequency of thaum flowing through you to change the concept
-- abillity to modulate the flow of the thaum flowing through you to apply thaumic pressue to your system
-- knowlege of where that frequency is compared to your own point. ( must know a glyph to learn a glyph )
-
-along with learning the exact reference point of thaum modulation compared to your own frequency. (referencing runes)
+a conciousness does not have to be attuned to a glyph to cast it from a spell.  see "how_someone_learns_a_glyph"
 
 ---
 
@@ -138,9 +132,20 @@ each conciousness can only be attuned to a thaumic frequency at a time
 each conciousness can be attuned to, and can therefore be represented as a glyph.
 
 a conciousness is not attuned to their own glyph by default, 
-but casters often learn their own glyph first.
+but casters often learn their own glyph first out of proximity.
 
 ---
+
+## how_someone_learns_a_glyph
+
+to learn a glyph, a consiousness must have the following.
+
+- the understanding of thaumic frequencies well enough to have a natural reference point
+- the understanding of a specific glyphs thaumic frequency compared to a natural reference point
+
+that being said, someone doesnt need to know how to spellcast to reference a glyph.
+> craftsmen who make magic items do this by building thaumic circuits
+
 ---
 
 ## attunment
