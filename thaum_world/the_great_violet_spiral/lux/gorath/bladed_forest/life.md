@@ -21,6 +21,27 @@ on the south border of the bladed_forest.
 
 ## producers
 
+### bladed_agave
+
+**ecological_role**: foundational producer, water source
+
+large plants with thick and sharp blade-shaped leaves that store water and maximize sunlight intake. leaves harden significantly during winter, 
+becoming ice-like and dangerous to traverse. serves as the primary producer and visual identity of the bladed forest.
+
+### hanging_manegrass
+
+**ecological_role**: seasonal barrier for graisers
+
+long, thin plants with climbing and hanging growth behavior. roots latch onto trees, rock faces, and elevated structures, 
+growing upward then dangling downward in sharp strands. becomes especially hazardous in winter, reinforcing forest borders against dry-plains grazers during food scarcity.
+
+### rising_manegrass
+
+**ecological_role**: cave and underforest producer, low-light adapted
+
+ground-rooted ridgid grasslike that grows upwards in mostly straight lines. requires minimal direct sunlight, relying on airborne moisture and ground minerals.
+in winter, ice forms along leaves creating icicle-like sheaths. common in caves and low-light environments, often visually similar to ice stalagtites or stalagmites.
+
 ---
 
 ## consumer_1
