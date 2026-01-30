@@ -102,10 +102,51 @@ Resonance is a core mechanism for how thaumic systems communicate and evolve.
 
 ---
 
+## glyphs
+
+glyphs represent a concept
+each glyph has a natural frequency in thaum and in sound that can "reference" it
+
+the bounds of the concepts of glyphs are as follows : 
+> a single consiousness
+> genetic code
+> energy 
+> an idea
+
+each conciousness can be attuned to one glyph at a time, and this can shift over time. this is attunment.
+a conciousness does not have to be attuned to a glyph to cast it from a spell. 
+
+---
+
+## how_someone_learns_a_glyph
+
+glyphs are learned through being able to modulate the atunement of thaum to a specific frequency as you move it through you. 
+this is comparable to working out a specific group of muscles to :
+- ability to modulate the frequency of thaum flowing through you to change the concept
+- abillity to modulate the flow of the thaum flowing through you to apply thaumic pressue to your system
+- knowlege of where that frequency is compared to your own point. ( must know a glyph to learn a glyph )
+
+along with learning the exact reference point of thaum modulation compared to your own frequency. (referencing runes)
+
+---
+
+## conciousness_and_thaum
+
+each conciousness can only be attuned to a thaumic frequency at a time
+> creatures with multiple cooperating consiousnesses can tune each one separatly
+
+each conciousness can be attuned to, and can therefore be represented as a glyph.
+
+a conciousness is not attuned to their own glyph by default, 
+but casters often learn their own glyph first.
+
+---
+---
+
 ## attunment
 
-an attuned being is one consiesness who has attuned their natural thaumic resonance to a glyph, and therefore a harmonic frequency.
-a consiesness is normally not tuned to a specific frequency at the start of their life.
+an attuned being is one conciousness who has attuned their natural thaumic resonance to a glyph, and therefore a harmonic frequency.
+a consiesness is normally not attuned to a specific frequency at the start of their life.
 
 This occurs naturally through :
 
@@ -120,22 +161,6 @@ This occurs naturally through :
 
 ---
 
-## glyphs
-
-Glyphs (formerly referred to as runes) represent the conceptual identity of a consciousness.
-
-There is a glyph associated with every stable consciousness and therefore every deity.
-
-Some entities possess:
-
-- A single glyph (single consciousness)  
-- Multiple glyphs (multiple consciousnesses or aspects)  
-
-There is usually a dominant glyph that controls the primary physical form, but this is not always the case.
-
-Glyphs form the structural basis of thaumic identification and interaction.
-
----
 
 ## implications_of_thaum
 
