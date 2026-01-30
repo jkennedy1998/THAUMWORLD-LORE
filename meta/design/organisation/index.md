@@ -8,7 +8,7 @@
 > > ages : meta
 
 > > facets : 
-      facet_example : https://www.thaumworld.world/meta/design/organisation/facet_example.html
+      facet_example : <https://www.thaumworld.world/meta/design/organisation/facet_example>
 
 
 ---

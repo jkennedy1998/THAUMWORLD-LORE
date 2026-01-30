@@ -17,4 +17,4 @@ this needs to be written
 
 ### gorath
 > a planet with a surface primarily filled with water or glacier.some landmass near the poles.
-https://www.thaumworld.world/thaum_world/the_great_violet_spiral/lux/gorath.html
+<https://www.thaumworld.world/thaum_world/the_great_violet_spiral/lux/gorath>
