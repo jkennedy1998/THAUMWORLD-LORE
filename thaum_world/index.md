@@ -102,39 +102,21 @@ Resonance is a core mechanism for how thaumic systems communicate and evolve.
 
 ---
 
-## dieties_and_thaumic_ecosystems
+## attunment
 
-When a concept becomes highly concentrated, it can form a stable conceptual entity commonly referred to as a *deity*.
+an attuned being is one consiesness who has attuned their natural thaumic resonance to a glyph, and therefore a harmonic frequency.
+a consiesness is normally not tuned to a specific frequency at the start of their life.
 
-This can occur naturally through:
+This occurs naturally through :
 
-- Mastery of a craft  
-- Long-term focus on a single concept  
-- Massive natural concentrations of a concept  
+- Long-term focus and exposure on a single refined concept
+> ex : in craftsmen who have found themselves to be devoted experts to their field, or mages devoted to mastering a glyph
+
+- Massive natural concentrations of a concept 
+> ex : mass graves of those who have died in similar ways or with similar emotions, or mages who store massive amounts of thaum attuned soley to a single glyph 
+
 - Consumption of large amounts of thaum-bound life energy  
-
-Examples:
-
-A master craftsman may become a local deity of craft.  
-Through resonance, this entity can transfer knowledge and structure to other craftsmen aligned with the same concept.
-
-A mage who stores large amounts of fire within themselves may become a local god of fire.  
-What appears to be “summoning” fire is actually the destabilization of stored fire-bound thaum.
-
-Fire-aligned entities can sense each other through resonance, similar to hearing a new source of sound.
-
-Dead fauna often accumulate around large monster dens.  
-Thaumic energy flows into these caves and creatures through compost and digestion.
-
-If crystalline structures are present, this can lead to the formation of:
-
-- Stone golems  
-- Cave plant golems  
-- Regional conceptual entities  
-
-Creatures that consume large amounts of concept-bound life may become local conceptual deities.
-
-These are often referred to as *wild gods* and may be hunted for power, sport, or honor.
+> ex : wild animals eating lots of other wild animals in areas of thaumic presense, or those who hunt the attuned to consume their matter
 
 ---
 
