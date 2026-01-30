@@ -9,7 +9,7 @@
 
 > > facets : 
 > > > life
-https://www.thaumworld.world/thaum_world/the_great_violet_spiral/lux/gorath/bladed_forest/life
+https://www.thaumworld.world/thaum_world/the_great_violet_spiral/lux/gorath/bladed_forest/life.html
 
 ---
 
@@ -20,7 +20,7 @@ travelers often avoid these areas in winter months,
 though the village of the bladed forests carves paths through the foliage,
 and has always welcomed those who put the work to maintain these paths.
 village_of_the_bladed_forest
-https://www.thaumworld.world/thaum_world/the_great_violet_spiral/lux/gorath/bladed_forest/village_of_the_bladed_forest/
+https://www.thaumworld.world/thaum_world/the_great_violet_spiral/lux/gorath/bladed_forest/village_of_the_bladed_forest.html
 
 
 ---

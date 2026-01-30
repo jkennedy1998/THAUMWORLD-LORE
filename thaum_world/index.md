@@ -18,7 +18,7 @@ the biggest difference in thaum_world is the addition of the particle, thaum, an
 
 ### the_great_violet_spiral
 a large galaxy that contains the store of the land of fog and snow
-https://www.thaumworld.world/thaum_world/the_great_violet_spiral/
+https://www.thaumworld.world/thaum_world/the_great_violet_spiral.html
 
 
 ---

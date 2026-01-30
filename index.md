@@ -18,8 +18,8 @@ this website / file structure system uses index.md files hosted through github p
 
 thaum world's cannonical universe
 
-https://www.thaumworld.world/thaum_world/
+https://www.thaumworld.world/thaum_world.html
 
 the planet that is the setting of the land of the snow and fog
 
-https://www.thaumworld.world/thaum_world/the_great_violet_spiral/lux/gorath/
+https://www.thaumworld.world/thaum_world/the_great_violet_spiral/lux/gorath.html
