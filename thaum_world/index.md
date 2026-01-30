@@ -166,7 +166,6 @@ This occurs naturally through :
 
 ---
 
-
 ## implications_of_thaum
 
 Thaum explains the existence of:
