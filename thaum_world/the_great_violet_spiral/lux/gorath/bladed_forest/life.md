@@ -46,7 +46,27 @@ in winter, ice forms along leaves creating icicle-like sheaths. common in caves 
 
 ## consumer_1
 
-burrowing_insects
+### root_tunneler_beetle
+
+**preys_on**: roots, underground growth
+
+a fist-sized beetle that tunnels under roots, forming networks. 
+they aid local fauna with accidental passageways yet gnaw on vital roots, making them both ecosystem engineers and pests.
+
+### foliage_shredder_beetle
+
+**preys_on**: bladed_agave, hanging_manegrass
+
+similar to leafcutter ants, these beetles shred sharp foliage, carving out agave leaves. 
+they are most active in warm months, swarming freshly growing plants.
+
+### seasonal_hive_beetle
+
+**preys_on**: tender foliage in warm season
+
+emerging in warm months, these beetles form hives in abandoned tunnels. 
+voracious foliage eaters, they vanish underground to hibernate in winter.
+in the warm months these come out and make a loud humming sound by rubbing their limbs together as a mating call.
 
 ---
 
@@ -59,7 +79,6 @@ burrowing_insects
 ### golden_ground_monkey
 
 **preys_on**: roots, insects, small creatures
-**preyed_upon_by**: felines
 
 semi-intelligent creatures with long golden fur covering their entire bodies.
 they have learned to use primitive tools, often making use of the sharp plant matter abundant in the forest.
@@ -73,7 +92,6 @@ while intelligent, the monkeys can be dangerous, and the village maintains a res
 ### hard_feather_fisher_bird
 
 **preys_on**: fish, insects, small aquatic creatures
-**preyed_upon_by**: felines
 
 a medium-sized bird approximately the size of a raven.
 possesses strong wings with hardened feathers that exist between scales and feathers, protecting it from small cuts during winter months.
