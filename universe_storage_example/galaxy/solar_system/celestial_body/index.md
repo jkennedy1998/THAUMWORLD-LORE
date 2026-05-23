@@ -1,4 +1,7 @@
-﻿# celestial_body
+---
+---
+
+# celestial_body
 > suns, planets, moons, asteroids, a spaceship far outside the atmosphere of a planet
 > > scale : celestial_body
 > > ages : proto_planet, differentiation, atmospheric_formation, thermal_peak, name_of_age_1, name_of_age_2, heat_death, post_death

@@ -1,25 +1,28 @@
-﻿# thaum_world
+---
+---
+
+# thaum world
 > the fictional works of thaum world, as written by J
 
 > > scale : universe
 
-> > ages : bang, early_universe, middle_universe, late_universe, heat_death
+> > ages : bang, early universe, middle universe, late universe, heat death
 
 > > facets : none
 
 ## nutshell
-thaum_world is a universe ive been writing for a long time. 
+thaum world is a universe ive been writing for a long time. 
 the primary aspects i like to play with are top down world building, fantasy sciences, and philosophy.
-the biggest difference in thaum_world is the addition of the particle, thaum, an electricity that is the inner workings of consiousness and life itself.
+the biggest difference in thaum world is the addition of the particle, thaum, an electricity that is the inner workings of consiousness and life itself.
 
 ---
 
 ## galaxies
 
-### the_great_violet_spiral
+### the great violet spiral
 a large galaxy that contains the store of the land of fog and snow
 
-<https://www.thaumworld.world/thaum_world/the_great_violet_spiral>
+<https://www.thaumworld.world/thaum%20world/the%20great%20violet%20spiral>
 
 
 ---
@@ -42,7 +45,7 @@ There are regions of the universe where thaum is absent, referred to as *dead zo
 
 ---
 
-## thaumic_concepts
+## thaumic concepts
 
 Thaum is not only energy — it also carries structure.
 
@@ -76,7 +79,7 @@ some concepts take more energy to reference than others.
 
 ---
 
-## conductivity_of_thaum
+## conductivity of thaum
 
 Thaum flows more easily through certain materials, environments, and biological systems.
 
@@ -90,7 +93,7 @@ Regions with low thaum conductivity become dead zones, where life and consciousn
 
 ---
 
-## resonance_of_thaum
+## resonance of thaum
 
 Like concepts resonate with like concepts.
 
@@ -118,13 +121,13 @@ each glyph has a sound and thaumic frequency that it resonates with
 the resonation of glyphs molds the concept of thaum. 
 this is magic at it's core.
 
-each conciousness can be attuned to one glyph at a time, and this can shift over time. this is attunment.  see "conciousness_and_thaum"
+each conciousness can be attuned to one glyph at a time, and this can shift over time. this is attunment.  see "conciousness and thaum"
 
-a conciousness does not have to be attuned to a glyph to cast it from a spell.  see "how_someone_learns_a_glyph"
+a conciousness does not have to be attuned to a glyph to cast it from a spell.  see "how someone learns a glyph"
 
 ---
 
-## conciousness_and_thaum
+## conciousness and thaum
 
 each conciousness can only be attuned to a thaumic frequency at a time
 > creatures with multiple cooperating consiousnesses can tune each one separatly
@@ -136,7 +139,7 @@ but casters often learn their own glyph first out of proximity.
 
 ---
 
-## how_someone_learns_a_glyph
+## how someone learns a glyph
 
 to learn a glyph, a consiousness must have the following.
 
@@ -166,7 +169,7 @@ This occurs naturally through :
 
 ---
 
-## implications_of_thaum
+## implications of thaum
 
 Thaum explains the existence of:
 

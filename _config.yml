@@ -1,0 +1,13 @@
+title: thaumworld.world
+markdown: kramdown
+exclude:
+  - .vs/
+  - AGENTS.md
+  - README.md
+  - meta/
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default

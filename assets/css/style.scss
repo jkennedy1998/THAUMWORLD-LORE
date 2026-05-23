@@ -1,0 +1,196 @@
+---
+---
+
+@font-face {
+  font-family: "ThaumMono";
+  src: url("{{ '/assets/fonts/ThaumMono-W80.ttf' | relative_url }}") format("truetype");
+  font-weight: 80;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "ThaumMono";
+  src: url("{{ '/assets/fonts/ThaumMono-W160.ttf' | relative_url }}") format("truetype");
+  font-weight: 160;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "ThaumMono";
+  src: url("{{ '/assets/fonts/ThaumMono-W320.ttf' | relative_url }}") format("truetype");
+  font-weight: 320;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "ThaumMono";
+  src: url("{{ '/assets/fonts/ThaumMono-W640.ttf' | relative_url }}") format("truetype");
+  font-weight: 640;
+  font-style: normal;
+}
+
+:root {
+  --bg: #120A1A;
+  --body: #FFF3B3;
+  --small: #894835;
+  --section: #A8561A;
+  --title: #E36325;
+  --grid: 16px;
+}
+
+html {
+  background: var(--bg);
+  color: var(--body);
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--body);
+  font-family: "ThaumMono", monospace;
+  font-size: var(--grid);
+  font-weight: 160;
+  line-height: normal;
+  font-kerning: auto;
+  font-feature-settings: normal;
+  letter-spacing: normal;
+}
+
+.page {
+  box-sizing: border-box;
+  width: min(100%, 112ch);
+  margin: 0 auto;
+  padding: 2rem 1.5rem 6rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+li,
+blockquote,
+pre,
+code,
+a,
+hr {
+  font-family: inherit;
+  font-size: 1rem;
+  line-height: normal;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 1.5rem 0 0.5rem;
+}
+
+h1 {
+  margin-top: 0;
+  color: var(--title);
+  font-weight: 640;
+}
+
+h2 {
+  color: var(--section);
+  font-weight: 640;
+  text-transform: uppercase;
+}
+
+h3 {
+  color: var(--body);
+  font-weight: 320;
+}
+
+h4 {
+  color: var(--small);
+  font-weight: 80;
+}
+
+h5,
+h6 {
+  color: var(--small);
+  font-weight: 160;
+}
+
+p,
+ul,
+ol,
+blockquote,
+pre {
+  margin: 0 0 1rem;
+}
+
+ul,
+ol {
+  padding-left: 2ch;
+}
+
+li + li {
+  margin-top: 0.25rem;
+}
+
+a {
+  color: var(--title);
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+a:hover {
+  color: var(--body);
+}
+
+strong {
+  font-weight: 320;
+}
+
+em {
+  font-style: normal;
+}
+
+blockquote {
+  color: var(--small);
+  padding-left: 2ch;
+  margin-left: 0;
+  border-left: 1px solid var(--small);
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--small);
+  margin: 1.5rem 0;
+}
+
+code {
+  color: var(--body);
+}
+
+pre {
+  overflow-x: auto;
+  padding: 1rem;
+  background: rgba(255, 243, 179, 0.04);
+  border: 1px solid rgba(137, 72, 53, 0.45);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+::selection {
+  background: var(--title);
+  color: var(--bg);
+}
+
+@media (max-width: 720px) {
+  .page {
+    padding: 1.25rem 1rem 4rem;
+  }
+}

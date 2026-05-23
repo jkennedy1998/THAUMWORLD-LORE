@@ -29,10 +29,10 @@ The repo already has the core scale-first shape and a live GitHub Pages flow. Th
 - [+] Review `index.md` at repo root and keep it website-facing, but make sure it does not conflict with the new internal docs.
 
 ## Phase 4 — update scale-bound canon pages where structure language is stale
-- [+] Review `thaum_world/index.md` for stale structure words or facet language that conflicts with the locked standards.
-- [+] Review `thaum_world/the_great_violet_spiral/index.md` for stale structure words or child-scale wording.
-- [+] Review `thaum_world/the_great_violet_spiral/lux/index.md` for stale structure words or child-scale wording.
-- [+] Review `thaum_world/the_great_violet_spiral/lux/gorath/index.md` for region/place wording, child links, and facet wording that should reflect the new standards.
+- [+] Review `thaum world/index.md` for stale structure words or facet language that conflicts with the locked standards.
+- [+] Review `thaum world/the great violet spiral/index.md` for stale structure words or child-scale wording.
+- [+] Review `thaum world/the great violet spiral/lux/index.md` for stale structure words or child-scale wording.
+- [+] Review `thaum world/the great violet spiral/lux/gorath/index.md` for region/place wording, child links, and facet wording that should reflect the new standards.
 - [+] Add `place` expectations only where they matter now, without creating empty lore structure just to satisfy the schema.
 
 ## Phase 5 — define the working `meta/` pipeline
@@ -45,4 +45,4 @@ The repo already has the core scale-first shape and a live GitHub Pages flow. Th
 - [#] Verify that a new agent could start from `README.md`, `AGENTS.md`, and `meta/docs/index.md` without extra chat context.
 - [#] Verify that the structure docs are lean and non-redundant.
 - [#] Verify that the scale and facet rules are enough to route a sample lore note without ambiguity.
-- [ ] After docs are stable, begin the first small lore migration through the `meta` pipeline instead of writing directly into canon folders.
+- [+] After docs are stable, begin the first small lore migration through the `meta` pipeline instead of writing directly into canon folders.
