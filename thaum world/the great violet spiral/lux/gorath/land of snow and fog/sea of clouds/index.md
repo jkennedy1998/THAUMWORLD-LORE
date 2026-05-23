@@ -42,7 +42,7 @@ local legend        :
 name origin         : named for the dense cloud cover that fills the region below many of its heights
 infrastructure      : old snow hall transit networks, settlement routes, and maintained roads between inhabited areas
 construction        : 
-governments         : 
+governments         : mostly local settlement rule, with cloud breach castle the strongest formal government and thunderspire held together more by religious and scientific clans
 thaumatry           : electrically charged thaumic catalysts from thunderspire support regional study and trade
 
 ---
@@ -56,16 +56,16 @@ the largest settlement in the region, lying to the east.
 the second largest settlement in the region, lying to the north.
 
 ### cloud gate outpost
-lies to the north east.
+lies to the north east. a small but often traveled stop for sleep, light trade, and the exchange of ideas.
 
 ### village on the glacier coast
-lies to the south.
+lies to the south. a small fishing settlement tied to a winter-bound population.
 
 ### masons rest
-lies to the south west.
+lies to the south west. known for masons, golems, and snow bore beetles.
 
 ### northern snow halls crossroads
-lies to the south east, just off the map, within the older underground network.
+lies to the south east, just off the map, within the older underground network. snow bore beetles and other boring kinds use these shifting tunnel routes heavily.
 
 ### abandoned snow hall haven
 near the center of the region. once occupied by bug folk from the south, now abandoned and overrun.

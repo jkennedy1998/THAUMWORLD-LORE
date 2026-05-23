@@ -195,7 +195,7 @@ strong {
 }
 
 .detail-row {
-  grid-template-columns: 18ch 3ch 1fr;
+  grid-template-columns: 19ch 1fr;
 }
 
 .meta-label,
@@ -218,10 +218,6 @@ strong {
   font-weight: 320;
 }
 
-.detail-sep {
-  color: var(--title);
-  font-weight: 320;
-}
 
 em {
   font-style: normal;
