@@ -1,26 +1,23 @@
-﻿## facet_example
-> a one line summary of the file ( EX : "this is an example facet" )
+# facet_example
+> example of the canonical facet vocabulary
 
-> > parent index.md file : 
+> > parent index.md file :
 <https://www.thaumworld.world/meta/design/organisation>
 
 ---
 
 ## nutshell
-this is a sub-section connected to an index.md file.
-the possible facet file names are as follows :
+Facet files are standard subpages used to split content by type.
+Use the canonical facet names below.
 
-> geography.md
+---
 
-> life.md
-
-> civilisation.md
-
-> dieties.md
-
-> technology.md
-
-> history.md
-
-> anecdotes.md
-
+## canonical_facets
+- geography.md
+- culture.md
+- life.md
+- technology.md
+- thaumatry.md
+- characters.md
+- places.md
+- science.md

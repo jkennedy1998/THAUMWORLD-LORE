@@ -7,13 +7,13 @@
 
 > > ages : proto_system, proto_star, proto_planet, bombardment, ...,the_long_wait , ..., post_death
 
-> > facets : see the celestial_bodys section
+> > facets : see the celestial_bodies section
 
 this needs to be written
 
 ---
 
-## celestial_bodys
+## celestial_bodies
 
 ### gorath
 > a planet with a surface primarily filled with water or glacier.some landmass near the poles.
