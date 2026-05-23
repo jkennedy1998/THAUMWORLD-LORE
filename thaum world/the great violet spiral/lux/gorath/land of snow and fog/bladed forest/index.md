@@ -13,7 +13,7 @@ age of lux to age of golem
 #### ages
 proto forest, wild ages, new settlements
 
-#### facets
+#### facetss
 [life](./life)
 
 ---
