@@ -4,17 +4,12 @@
 # bladed forest
 a cold, wet forest known for its unrelenting and dangerous winters
 
-#### scale
-region
-
-#### age
-age of lux to age of golem
-
-#### ages
-proto forest, wild ages, new settlements
-
-#### facetss
-[life](./life)
+<div class="meta-block">
+<div class="meta-row"><span class="meta-label">scale     :</span><span class="meta-value">region</span></div>
+<div class="meta-row"><span class="meta-label">age       :</span><span class="meta-value">age of lux to age of golem</span></div>
+<div class="meta-row"><span class="meta-label">ages      :</span><span class="meta-value">proto forest, wild ages, new settlements</span></div>
+<div class="meta-row"><span class="meta-label">facets    :</span><span class="meta-value"><a href="./life">life</a></span></div>
+</div>
 
 ---
 

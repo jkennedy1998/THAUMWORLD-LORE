@@ -140,32 +140,82 @@ li + li {
 
 a {
   color: var(--title);
-  text-decoration: underline;
-  text-underline-offset: 0.15em;
+  text-decoration: none;
+  transition: color 120ms ease, font-weight 120ms ease;
 }
 
 a:hover {
   color: var(--body);
 }
 
+p a:hover,
+li a:hover,
+blockquote a:hover,
+.meta-value a:hover,
+.detail-value a:hover {
+  font-weight: 320;
+}
+
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+  color: inherit;
+  font-weight: inherit;
+}
+
+h1 a:hover,
+h2 a:hover,
+h3 a:hover,
+h4 a:hover,
+h5 a:hover,
+h6 a:hover {
+  color: var(--body);
+  font-weight: 640;
+}
+
 strong {
   font-weight: 320;
 }
 
+.meta-block {
+  margin: 0.5rem 0 1.5rem;
+}
+
+.meta-row,
 .detail-row {
   display: grid;
-  grid-template-columns: 22ch 1fr;
   gap: 0;
+}
+
+.meta-row {
+  grid-template-columns: 12ch 1fr;
+}
+
+.detail-row {
+  grid-template-columns: 22ch 1fr;
+}
+
+.meta-label,
+.detail-label {
+  white-space: pre;
+}
+
+.meta-label {
+  color: var(--small);
+  font-weight: 80;
+}
+
+.meta-value,
+.detail-value {
+  min-width: 0;
 }
 
 .detail-label {
   color: var(--title);
   font-weight: 320;
-  white-space: pre;
-}
-
-.detail-value {
-  min-width: 0;
 }
 
 em {
@@ -181,8 +231,15 @@ blockquote {
 
 hr {
   border: 0;
-  border-top: 1px solid var(--small);
   margin: 1.5rem 0;
+  color: var(--small);
+}
+
+hr::after {
+  content: "████▒▓█▓░ ░░░  ░ ░░▓█▓▓░▒░  ░";
+  display: block;
+  white-space: pre;
+  overflow: hidden;
 }
 
 code {
