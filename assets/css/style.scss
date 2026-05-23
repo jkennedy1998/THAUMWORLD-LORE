@@ -152,10 +152,20 @@ strong {
   font-weight: 320;
 }
 
+.detail-row {
+  display: grid;
+  grid-template-columns: 22ch 1fr;
+  gap: 0;
+}
+
 .detail-label {
   color: var(--title);
   font-weight: 320;
   white-space: pre;
+}
+
+.detail-value {
+  min-width: 0;
 }
 
 em {
