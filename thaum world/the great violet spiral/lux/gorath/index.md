@@ -16,10 +16,10 @@ everything that goes on or describes a planet goes in a folder of this size.
 
 ---
 
-## [land of snow and fog](./land%20of%20snow%20and%20fog/)
-a large continental landmass with oceans on the north, east, and west sides. the deep south at its southern border.
+## maps
 
----
+### [land of snow and fog](./land%20of%20snow%20and%20fog/)
+a large continental landmass with oceans on the north, east, and west sides. the <a href="./deep%20south/">deep south</a> at its southern border.
 
-## [deep south](./deep%20south/)
-a large south polar continental landmass with the land of fog and snow on the north border
+### [deep south](./deep%20south/)
+a large south polar continental landmass with the <a href="./land%20of%20snow%20and%20fog/">land of fog and snow</a> on the north border
