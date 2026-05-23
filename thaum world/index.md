@@ -2,13 +2,13 @@
 ---
 
 # thaum world
-> the fictional works of thaum world, as written by J
+the fictional works of thaum world, as written by J
 
-> > scale : universe
-
-> > ages : bang, early universe, middle universe, late universe, heat death
-
-> > facets : none
+<div class="meta-block">
+<div class="meta-row"><span class="meta-label">scale   :</span><span class="meta-value">universe</span></div>
+<div class="meta-row"><span class="meta-label">ages    :</span><span class="meta-value">bang, early universe, middle universe, late universe, heat death</span></div>
+<div class="meta-row"><span class="meta-label">facets  :</span><span class="meta-value">none</span></div>
+</div>
 
 ## nutshell
 thaum world is a universe ive been writing for a long time. 

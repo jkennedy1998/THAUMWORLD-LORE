@@ -2,15 +2,14 @@
 ---
 
 # land of snow and fog
-> a large continental landmass with oceans on the north, east, and west sides. the deep south at its southern border.
+a large continental landmass with oceans on the north, east, and west sides. the deep south at its southern border.
 
-> > scale : map
-
-> > age : age of lux to age of golem
-
-> > ages : wild ages, new settlements
-
-> > facets : see the regions section
+<div class="meta-block">
+<div class="meta-row"><span class="meta-label">scale   :</span><span class="meta-value">map</span></div>
+<div class="meta-row"><span class="meta-label">age     :</span><span class="meta-value">age of lux to age of golem</span></div>
+<div class="meta-row"><span class="meta-label">ages    :</span><span class="meta-value">wild ages, new settlements</span></div>
+<div class="meta-row"><span class="meta-label">facets  :</span><span class="meta-value">see the regions section</span></div>
+</div>
 
 ---
 

@@ -2,9 +2,11 @@
 ---
 
 ## sea of clouds life
-> the life that characteerises the sea of clouds
+the life that characteerises the sea of clouds
 
-> > parent index.md file : [sea of clouds](./)
+<div class="meta-block">
+<div class="meta-row"><span class="meta-label">parent  :</span><span class="meta-value"><a href="./">sea of clouds</a></span></div>
+</div>
 
 ---
 

@@ -2,16 +2,14 @@
 ---
 
 # cloud breach castle
-> the largest settlement in the sea of clouds, built into a wet mountain above the cloudline
+the largest settlement in the sea of clouds, built into a wet mountain above the cloudline
 
-> > scale : place
-
-> > age : age of lux to age of golem
-
-> > ages : proto settlement, homestead, age of honing, age of expansion, age of class
-
-> > facets : 
-> > > [characters](./characters)
+<div class="meta-block">
+<div class="meta-row"><span class="meta-label">scale   :</span><span class="meta-value">place</span></div>
+<div class="meta-row"><span class="meta-label">age     :</span><span class="meta-value">age of lux to age of golem</span></div>
+<div class="meta-row"><span class="meta-label">ages    :</span><span class="meta-value">proto settlement, homestead, age of honing, age of expansion, age of class</span></div>
+<div class="meta-row"><span class="meta-label">facets  :</span><span class="meta-value"><a href="./characters">characters</a></span></div>
+</div>
 
 ---
 
@@ -29,40 +27,39 @@ many pass through on the way to other settlements, though some stay because it i
 
 ## settlement details
 
-spring food         : imports from larger cities, foraged vegetation, hunted wildlife
-summer food         : hunted wildlife, foraged vegetation, spring harvests
-fall food           : tundric summer harvests, pickled produce, hunted wildlife, foraged vegetation 
-winter food         : jerky, preserves, imports from larger cities, hunted wildlife
-water source        : aqueducts and cloud runoff
-weather             : cold, wet, fog heavy, and shaped by constant runoff
-clothing            : heavy garbs, often insulated for water and temperature. leathers, fur, and cloth
-sickness            : hypothermia, fungal infections thriving in humid environments
-exports             : military power, capable hands, masonry, and knowledge
-imports             : food and electrically charged catalysts
-economy             : enough wealth generation that a class system has formed, though the divide is more about comfort and resilience than absolute separation
-population amount   : 1 - 2k
-general class       : largely working class, with many soldiers, mages, and traders. only a small royal class stands above them
-family              : some families of frost-dwelling creatures live along the outer walls
-travelers           : constant traffic moving through the settlement, with some travelers choosing to stay
-deities             : 
-population kind     : 
-languages           : 
-death rituals       : 
-social rituals      : 
-social taboo        : 
-local legend        : 
-name origin         : the castle breaches the cloudline. one of few settlements that do this on the western mountain pass of the land of fog and snow
-settlemenmt purpose : a settlement on a well traversed mountain path
-current purpose     : a growing settlement that offers warmth to those in need. growing and thriving as much as they can in this land
-defences            : on a mountain, city walls mostly for warmth from the winds, and a small army with patrolling guards focused mainly on local predators and monsters
-land utilization    : makes use of the clouds and constant runoff for water and farming
-infrastructure      : communally run heating elements ( underground air channels ), piped water, aqueducts, plumbing channels, some electricity in labs.
-		      the underground air channels are nearby the sewer lines and keep the water and materials moving, as does incoming water.
-construction        : hewn and carved stone, fossil-rich masonry, some metals for heating elements, moisture resistant materials. sharp slanted roofs control snow falloff
-government          : a lord serving with elected offices for science, infrastructure, defence, and thaumatry / religion. the lord is chosen indirectly through those offices
-views on government : the government mostly does what it needs and provides to those within the castle's bounds -- including the outer wall's
-substance views     : 
-thaumatry           : harnesses power from electrically charged thaumic catalysts from the thunderspire. heats indoor grow beds within greenhouses. thaumic work within the settlement also includes efforts to preserve consciousness across bodies and stabilize long-term degeneration
+<div class="detail-row"><span class="detail-label">spring food      :</span><span class="detail-value">imports from larger cities, foraged vegetation, hunted wildlife</span></div>
+<div class="detail-row"><span class="detail-label">summer food      :</span><span class="detail-value">hunted wildlife, foraged vegetation, spring harvests</span></div>
+<div class="detail-row"><span class="detail-label">fall food        :</span><span class="detail-value">tundric summer harvests, pickled produce, hunted wildlife, foraged vegetation</span></div>
+<div class="detail-row"><span class="detail-label">winter food      :</span><span class="detail-value">jerky, preserves, imports from larger cities, hunted wildlife</span></div>
+<div class="detail-row"><span class="detail-label">water source     :</span><span class="detail-value">aqueducts and cloud runoff</span></div>
+<div class="detail-row"><span class="detail-label">weather          :</span><span class="detail-value">cold, wet, fog heavy, and shaped by constant runoff</span></div>
+<div class="detail-row"><span class="detail-label">clothing         :</span><span class="detail-value">heavy garbs, often insulated for water and temperature. leathers, fur, and cloth</span></div>
+<div class="detail-row"><span class="detail-label">sickness         :</span><span class="detail-value">hypothermia, fungal infections thriving in humid environments</span></div>
+<div class="detail-row"><span class="detail-label">exports          :</span><span class="detail-value">military power, capable hands, masonry, and knowledge</span></div>
+<div class="detail-row"><span class="detail-label">imports          :</span><span class="detail-value">food and electrically charged catalysts</span></div>
+<div class="detail-row"><span class="detail-label">economy          :</span><span class="detail-value">enough wealth generation that a class system has formed, though the divide is more about comfort and resilience than absolute separation</span></div>
+<div class="detail-row"><span class="detail-label">population amount :</span><span class="detail-value">1 - 2k</span></div>
+<div class="detail-row"><span class="detail-label">general class    :</span><span class="detail-value">largely working class, with many soldiers, mages, and traders. only a small royal class stands above them</span></div>
+<div class="detail-row"><span class="detail-label">family           :</span><span class="detail-value">some families of frost-dwelling creatures live along the outer walls</span></div>
+<div class="detail-row"><span class="detail-label">travelers        :</span><span class="detail-value">constant traffic moving through the settlement, with some travelers choosing to stay</span></div>
+<div class="detail-row"><span class="detail-label">deities          :</span><span class="detail-value"></span></div>
+<div class="detail-row"><span class="detail-label">population kind  :</span><span class="detail-value"></span></div>
+<div class="detail-row"><span class="detail-label">languages        :</span><span class="detail-value"></span></div>
+<div class="detail-row"><span class="detail-label">death rituals    :</span><span class="detail-value"></span></div>
+<div class="detail-row"><span class="detail-label">social rituals   :</span><span class="detail-value"></span></div>
+<div class="detail-row"><span class="detail-label">social taboo     :</span><span class="detail-value"></span></div>
+<div class="detail-row"><span class="detail-label">local legend     :</span><span class="detail-value"></span></div>
+<div class="detail-row"><span class="detail-label">name origin      :</span><span class="detail-value">the castle breaches the cloudline. one of few settlements that do this on the western mountain pass of the land of fog and snow</span></div>
+<div class="detail-row"><span class="detail-label">settlemenmt purpose :</span><span class="detail-value">a settlement on a well traversed mountain path</span></div>
+<div class="detail-row"><span class="detail-label">current purpose  :</span><span class="detail-value">a growing settlement that offers warmth to those in need. growing and thriving as much as they can in this land</span></div>
+<div class="detail-row"><span class="detail-label">defences         :</span><span class="detail-value">on a mountain, city walls mostly for warmth from the winds, and a small army with patrolling guards focused mainly on local predators and monsters</span></div>
+<div class="detail-row"><span class="detail-label">land utilization :</span><span class="detail-value">makes use of the clouds and constant runoff for water and farming</span></div>
+<div class="detail-row"><span class="detail-label">infrastructure   :</span><span class="detail-value">communally run heating elements ( underground air channels ), piped water, aqueducts, plumbing channels, some electricity in labs. the underground air channels are nearby the sewer lines and keep the water and materials moving, as does incoming water.</span></div>
+<div class="detail-row"><span class="detail-label">construction     :</span><span class="detail-value">hewn and carved stone, fossil-rich masonry, some metals for heating elements, moisture resistant materials. sharp slanted roofs control snow falloff</span></div>
+<div class="detail-row"><span class="detail-label">government       :</span><span class="detail-value">a lord serving with elected offices for science, infrastructure, defence, and thaumatry / religion. the lord is chosen indirectly through those offices</span></div>
+<div class="detail-row"><span class="detail-label">views on government :</span><span class="detail-value">the government mostly does what it needs and provides to those within the castle's bounds -- including the outer wall's</span></div>
+<div class="detail-row"><span class="detail-label">substance views  :</span><span class="detail-value"></span></div>
+<div class="detail-row"><span class="detail-label">thaumatry        :</span><span class="detail-value">harnesses power from electrically charged thaumic catalysts from the thunderspire. heats indoor grow beds within greenhouses. thaumic work within the settlement also includes efforts to preserve consciousness across bodies and stabilize long-term degeneration</span></div>
 
 ---
 

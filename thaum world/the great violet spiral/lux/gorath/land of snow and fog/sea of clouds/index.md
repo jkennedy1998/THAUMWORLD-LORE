@@ -2,16 +2,14 @@
 ---
 
 # sea of clouds
-> a frigid mountainous region within the south east of the land of fog and snow
+a frigid mountainous region within the south east of the land of fog and snow
 
-> > scale : region
-
-> > age : age of lux to age of golem
- 
-> > ages : wild ages, new settlements, 
-
-> > facets : 
-> > > [life](./life)
+<div class="meta-block">
+<div class="meta-row"><span class="meta-label">scale   :</span><span class="meta-value">region</span></div>
+<div class="meta-row"><span class="meta-label">age     :</span><span class="meta-value">age of lux to age of golem</span></div>
+<div class="meta-row"><span class="meta-label">ages    :</span><span class="meta-value">wild ages, new settlements,</span></div>
+<div class="meta-row"><span class="meta-label">facets  :</span><span class="meta-value"><a href="./life">life</a></span></div>
+</div>
 
 ---
 
@@ -26,24 +24,24 @@ near the center lies an abandoned snow hall haven once occupied by bug folk from
 
 ## region details
 
-spring nutrients    : plant growth, hunted wildlife, and trade-supported settlement stores
-summer nutrients    : fertile plant life, hunted wildlife, and seasonal gathering
-fall nutrients      : preserved harvests, hunted wildlife, and gathered regional growth
-winter nutrients    : preserves, hunted wildlife, and stored settlement supplies
-water source        : cloud moisture, runoff, snowmelt, and underground rivers
-weather             : frigid, humid, fog heavy, and shaped by snow, permafrost, and constant moisture
-sickness            : exposure, cold injury, damp sickness, and fungal spread
-population          : multiple settlements and routes, with cloud breach castle the largest and thunderspire the second largest
-travelers           : regular movement between settlements, though weather and terrain make travel dangerous
-population kind     : 
-languages           : 
-deities             : 
-local legend        : 
-name origin         : named for the dense cloud cover that fills the region below many of its heights
-infrastructure      : old snow hall transit networks, settlement routes, and maintained roads between inhabited areas
-construction        : 
-governments         : mostly local settlement rule, with cloud breach castle the strongest formal government and thunderspire held together more by religious and scientific clans
-thaumatry           : electrically charged thaumic catalysts from thunderspire support regional study and trade
+<div class="detail-row"><span class="detail-label">spring nutrients :</span><span class="detail-value">plant growth, hunted wildlife, and trade-supported settlement stores</span></div>
+<div class="detail-row"><span class="detail-label">summer nutrients :</span><span class="detail-value">fertile plant life, hunted wildlife, and seasonal gathering</span></div>
+<div class="detail-row"><span class="detail-label">fall nutrients   :</span><span class="detail-value">preserved harvests, hunted wildlife, and gathered regional growth</span></div>
+<div class="detail-row"><span class="detail-label">winter nutrients :</span><span class="detail-value">preserves, hunted wildlife, and stored settlement supplies</span></div>
+<div class="detail-row"><span class="detail-label">water source     :</span><span class="detail-value">cloud moisture, runoff, snowmelt, and underground rivers</span></div>
+<div class="detail-row"><span class="detail-label">weather          :</span><span class="detail-value">frigid, humid, fog heavy, and shaped by snow, permafrost, and constant moisture</span></div>
+<div class="detail-row"><span class="detail-label">sickness         :</span><span class="detail-value">exposure, cold injury, damp sickness, and fungal spread</span></div>
+<div class="detail-row"><span class="detail-label">population       :</span><span class="detail-value">multiple settlements and routes, with cloud breach castle the largest and thunderspire the second largest</span></div>
+<div class="detail-row"><span class="detail-label">travelers        :</span><span class="detail-value">regular movement between settlements, though weather and terrain make travel dangerous</span></div>
+<div class="detail-row"><span class="detail-label">population kind  :</span><span class="detail-value"></span></div>
+<div class="detail-row"><span class="detail-label">languages        :</span><span class="detail-value"></span></div>
+<div class="detail-row"><span class="detail-label">deities          :</span><span class="detail-value"></span></div>
+<div class="detail-row"><span class="detail-label">local legend     :</span><span class="detail-value"></span></div>
+<div class="detail-row"><span class="detail-label">name origin      :</span><span class="detail-value">named for the dense cloud cover that fills the region below many of its heights</span></div>
+<div class="detail-row"><span class="detail-label">infrastructure   :</span><span class="detail-value">old snow hall transit networks, settlement routes, and maintained roads between inhabited areas</span></div>
+<div class="detail-row"><span class="detail-label">construction     :</span><span class="detail-value"></span></div>
+<div class="detail-row"><span class="detail-label">governments      :</span><span class="detail-value">mostly local settlement rule, with cloud breach castle the strongest formal government and thunderspire held together more by religious and scientific clans</span></div>
+<div class="detail-row"><span class="detail-label">thaumatry        :</span><span class="detail-value">electrically charged thaumic catalysts from thunderspire support regional study and trade</span></div>
 
 ---
 

@@ -2,9 +2,11 @@
 ---
 
 ## bladed forest life
-> the life that characteerises the bladed forest
+the life that characteerises the bladed forest
 
-> > parent index.md file : [bladed forest](./)
+<div class="meta-block">
+<div class="meta-row"><span class="meta-label">parent  :</span><span class="meta-value"><a href="./">bladed forest</a></span></div>
+</div>
 
 ---
 

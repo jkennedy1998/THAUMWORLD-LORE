@@ -2,25 +2,24 @@
 ---
 
 # gorath
-> the planet which contains the land of snow and fog
+the planet which contains the land of snow and fog
 
-> > scale : celestial body
-
-> > age : proto planet to post death
-
-> > ages : proto planet, differentiation, atmospheric formation, thermal peak, age of animal, age of darkness , age of bread, age of lux ,age of golem ,age of electricity , ... ,heat death, post death
-
-> > facets : see the regions section
+<div class="meta-block">
+<div class="meta-row"><span class="meta-label">scale   :</span><span class="meta-value">celestial body</span></div>
+<div class="meta-row"><span class="meta-label">age     :</span><span class="meta-value">proto planet to post death</span></div>
+<div class="meta-row"><span class="meta-label">ages    :</span><span class="meta-value">proto planet, differentiation, atmospheric formation, thermal peak, age of animal, age of darkness , age of bread, age of lux ,age of golem ,age of electricity , ... ,heat death, post death</span></div>
+<div class="meta-row"><span class="meta-label">facets  :</span><span class="meta-value">see the regions section</span></div>
+</div>
 
 groupings of matter, separated by space in the parent solar system.
-> everything that goes on or describes a planet goes in a folder of this size. 
+everything that goes on or describes a planet goes in a folder of this size. 
 
 ---
 
 ## [land of snow and fog](./land%20of%20snow%20and%20fog/)
-> a large continental landmass with oceans on the north, east, and west sides. the deep south at its southern border.
+a large continental landmass with oceans on the north, east, and west sides. the deep south at its southern border.
 
 ---
 
 ## [deep south](./deep%20south/)
-> a large south polar continental landmass with the land of fog and snow on the north border
+a large south polar continental landmass with the land of fog and snow on the north border
