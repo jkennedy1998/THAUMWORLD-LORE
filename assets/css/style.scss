@@ -152,6 +152,12 @@ strong {
   font-weight: 320;
 }
 
+.detail-label {
+  color: var(--title);
+  font-weight: 320;
+  white-space: pre;
+}
+
 em {
   font-style: normal;
 }
