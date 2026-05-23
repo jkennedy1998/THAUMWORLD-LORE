@@ -162,8 +162,19 @@ h3 a,
 h4 a,
 h5 a,
 h6 a {
-  color: inherit;
   font-weight: inherit;
+}
+
+h1 a,
+h2 a {
+  color: inherit;
+}
+
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+  color: var(--title);
 }
 
 h1 a:hover,
