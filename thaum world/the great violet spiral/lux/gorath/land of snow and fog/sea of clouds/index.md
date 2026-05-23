@@ -1,8 +1,8 @@
 ---
 ---
 
-# sea of clouds
-a frigid mountainous region within the south east of the land of fog and snow
+# <a class="title-parent-link" href="../">land of snow and fog</a> <span class="title-separator">:</span> <span class="title-current">sea of clouds</span>
+a frigid mountainous region within the south east of the <a href="../">land of fog and snow</a>
 
 <div class="meta-block">
 <div class="meta-row"><span class="meta-label">scale   :</span><span class="meta-value">region</span></div>

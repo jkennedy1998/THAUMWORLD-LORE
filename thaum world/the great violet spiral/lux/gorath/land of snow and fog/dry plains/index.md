@@ -1,8 +1,8 @@
 ---
 ---
 
-# dry plains
-broad plains of grasses and low vegetation, known for grazing herds and open country
+# <a class="title-parent-link" href="../">land of snow and fog</a> <span class="title-separator">:</span> <span class="title-current">dry plains</span>
+broad plains of grasses and low vegetation within the <a href="../">land of snow and fog</a>, known for grazing herds and open country
 
 <div class="meta-block">
 <div class="meta-row"><span class="meta-label">scale   :</span><span class="meta-value">region</span></div>

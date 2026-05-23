@@ -1,12 +1,8 @@
 ---
 ---
 
-# characters
-notable individuals associated with cloud breach castle
-
-<div class="meta-block">
-<div class="meta-row"><span class="meta-label">parent  :</span><span class="meta-value"><a href="./">cloud breach castle</a></span></div>
-</div>
+# <a class="title-parent-link" href="./">cloud breach castle</a> <span class="title-separator">:</span> <span class="title-current">characters</span>
+notable individuals associated with <a href="./">cloud breach castle</a>
 
 ---
 

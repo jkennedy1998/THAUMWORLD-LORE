@@ -176,6 +176,23 @@ h6 a:hover {
   font-weight: 640;
 }
 
+.title-parent-link {
+  color: var(--title) !important;
+}
+
+.title-parent-link:hover {
+  color: var(--body) !important;
+}
+
+.title-separator {
+  color: var(--small);
+  font-weight: 80;
+}
+
+.title-current {
+  color: var(--body);
+}
+
 strong {
   font-weight: 320;
 }

@@ -1,21 +1,10 @@
 ---
 ---
 
-## bladed forest life
-the life that characteerises the bladed forest
-
-<div class="meta-block">
-<div class="meta-row"><span class="meta-label">parent  :</span><span class="meta-value"><a href="./">bladed forest</a></span></div>
-</div>
-
----
-
-## nutshell
+# <a class="title-parent-link" href="./">bladed forest</a> <span class="title-separator">:</span> <span class="title-current">life</span>
 the bladed forest is home to a large amount of variations of thick leafed foliage plants.
-some say the bladed plants help sway off the grazers of the dry plains, 
+some say the bladed plants help sway off the grazers of the <a href="../dry%20plains/">dry plains</a>, 
 on the south border of the bladed forest.
-
-[dry plains](../dry%20plains/)
 
 ---
 

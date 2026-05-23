@@ -1,8 +1,8 @@
 ---
 ---
 
-# land of snow and fog
-a large continental landmass with oceans on the north, east, and west sides. the deep south at its southern border.
+# <a class="title-parent-link" href="../">gorath</a> <span class="title-separator">:</span> <span class="title-current">land of snow and fog</span>
+a large continental landmass with oceans on the north, east, and west sides. the <a href="../deep%20south/">deep south</a> at its southern border.
 
 <div class="meta-block">
 <div class="meta-row"><span class="meta-label">scale   :</span><span class="meta-value">map</span></div>

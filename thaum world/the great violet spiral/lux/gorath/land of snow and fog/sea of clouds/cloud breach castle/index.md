@@ -1,8 +1,8 @@
 ---
 ---
 
-# cloud breach castle
-the largest settlement in the sea of clouds, built into a wet mountain above the cloudline
+# <a class="title-parent-link" href="../">sea of clouds</a> <span class="title-separator">:</span> <span class="title-current">cloud breach castle</span>
+the largest settlement in the <a href="../">sea of clouds</a>, built into a wet mountain above the cloudline
 
 <div class="meta-block">
 <div class="meta-row"><span class="meta-label">scale   :</span><span class="meta-value">place</span></div>

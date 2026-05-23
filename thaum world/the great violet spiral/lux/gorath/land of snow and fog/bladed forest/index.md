@@ -1,8 +1,8 @@
 ---
 ---
 
-# bladed forest
-a cold, wet forest known for its unrelenting and dangerous winters
+# <a class="title-parent-link" href="../">land of snow and fog</a> <span class="title-separator">:</span> <span class="title-current">bladed forest</span>
+a cold, wet forest within the <a href="../">land of snow and fog</a>, known for its unrelenting and dangerous winters
 
 <div class="meta-block">
 <div class="meta-row"><span class="meta-label">scale     :</span><span class="meta-value">region</span></div>

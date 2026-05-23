@@ -1,8 +1,8 @@
 ---
 ---
 
-# thunderspire
-the second largest settlement in the sea of clouds, known for religion, study, and thunder knowledge
+# <a class="title-parent-link" href="../">sea of clouds</a> <span class="title-separator">:</span> <span class="title-current">thunderspire</span>
+the second largest settlement in the <a href="../">sea of clouds</a>, known for religion, study, and thunder knowledge
 
 <div class="meta-block">
 <div class="meta-row"><span class="meta-label">scale   :</span><span class="meta-value">place</span></div>

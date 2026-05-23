@@ -1,7 +1,7 @@
 ---
 ---
 
-# the great violet spiral
+# <a class="title-parent-link" href="../">thaum world</a> <span class="title-separator">:</span> <span class="title-current">the great violet spiral</span>
 a cluster of solar systems that happens to contain the land of snow and fog
 
 <div class="meta-block">

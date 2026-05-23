@@ -1,7 +1,7 @@
 ---
 ---
 
-# lux
+# <a class="title-parent-link" href="../">the great violet spiral</a> <span class="title-separator">:</span> <span class="title-current">lux</span>
 a group of celestial body that happens to contain the land of snow and fog
 
 <div class="meta-block">

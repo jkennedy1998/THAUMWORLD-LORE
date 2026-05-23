@@ -1,8 +1,8 @@
 ---
 ---
 
-# village of the bladed forest
-a small village within the bladed forest, known for path keeping
+# <a class="title-parent-link" href="../">bladed forest</a> <span class="title-separator">:</span> <span class="title-current">village of the bladed forest</span>
+a small village within the <a href="../">bladed forest</a>, known for path keeping
 
 <div class="meta-block">
 <div class="meta-row"><span class="meta-label">scale   :</span><span class="meta-value">place</span></div>

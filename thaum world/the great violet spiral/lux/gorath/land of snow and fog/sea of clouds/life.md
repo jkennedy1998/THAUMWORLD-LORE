@@ -1,16 +1,7 @@
 ---
 ---
 
-## sea of clouds life
-the life that characteerises the sea of clouds
-
-<div class="meta-block">
-<div class="meta-row"><span class="meta-label">parent  :</span><span class="meta-value"><a href="./">sea of clouds</a></span></div>
-</div>
-
----
-
-## nutshell
+# <a class="title-parent-link" href="./">sea of clouds</a> <span class="title-separator">:</span> <span class="title-current">life</span>
 the sea of clouds are home to a wide assortment of fauna and flora, both carbon, chlorine and thaumic based. 
 the dense fogs over the area mixed with the steep inclined mountains often leaves this area flooded or frozen over in sheets of ice. 
 the water from the clouds has erroded the landscape with deep gouges, that look like razors cutting into the mountains,

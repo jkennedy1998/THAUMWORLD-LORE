@@ -1,7 +1,7 @@
 ---
 ---
 
-# gorath
+# <a class="title-parent-link" href="../">lux</a> <span class="title-separator">:</span> <span class="title-current">gorath</span>
 the planet which contains the land of snow and fog
 
 <div class="meta-block">
