@@ -34,7 +34,7 @@ it serves as a settled refuge in a region where winter travel is dangerous and t
 <div class="detail-row"><span class="detail-label">exports          :</span><span class="detail-value">maintained passageways, local forest knowledge</span></div>
 <div class="detail-row"><span class="detail-label">imports          :</span><span class="detail-value"></span></div>
 <div class="detail-row"><span class="detail-label">economy          :</span><span class="detail-value">small village survival and exchange</span></div>
-<div class="detail-row"><span class="detail-label">population amount :</span><span class="detail-value"></span></div>
+<div class="detail-row"><span class="detail-label">population      :</span><span class="detail-value"></span></div>
 <div class="detail-row"><span class="detail-label">general class    :</span><span class="detail-value">working and survival focused</span></div>
 <div class="detail-row"><span class="detail-label">family           :</span><span class="detail-value"></span></div>
 <div class="detail-row"><span class="detail-label">travelers        :</span><span class="detail-value">welcomed when they help maintain the forest paths</span></div>
@@ -46,13 +46,13 @@ it serves as a settled refuge in a region where winter travel is dangerous and t
 <div class="detail-row"><span class="detail-label">social taboo     :</span><span class="detail-value"></span></div>
 <div class="detail-row"><span class="detail-label">local legend     :</span><span class="detail-value"></span></div>
 <div class="detail-row"><span class="detail-label">name origin      :</span><span class="detail-value">named for its place within the bladed forest</span></div>
-<div class="detail-row"><span class="detail-label">settlemenmt purpose :</span><span class="detail-value">a homestead and refuge within the forest</span></div>
+<div class="detail-row"><span class="detail-label">early age       :</span><span class="detail-value">a homestead and refuge within the forest</span></div>
 <div class="detail-row"><span class="detail-label">current purpose  :</span><span class="detail-value">maintaining paths, surviving the winters, and housing those who live with the forest</span></div>
 <div class="detail-row"><span class="detail-label">defences         :</span><span class="detail-value">hazardous terrain, maintained paths, and local knowledge</span></div>
 <div class="detail-row"><span class="detail-label">land utilization :</span><span class="detail-value">path cutting, survival gathering, and careful habitation within the forest</span></div>
 <div class="detail-row"><span class="detail-label">infrastructure   :</span><span class="detail-value">maintained forest paths and village-kept routes</span></div>
 <div class="detail-row"><span class="detail-label">construction     :</span><span class="detail-value"></span></div>
 <div class="detail-row"><span class="detail-label">government       :</span><span class="detail-value"></span></div>
-<div class="detail-row"><span class="detail-label">views on government :</span><span class="detail-value"></span></div>
+<div class="detail-row"><span class="detail-label">nation          :</span><span class="detail-value"></span></div>
 <div class="detail-row"><span class="detail-label">substance views  :</span><span class="detail-value"></span></div>
 <div class="detail-row"><span class="detail-label">thaumatry        :</span><span class="detail-value"></span></div>

@@ -1,13 +1,10 @@
 # land of snow and fog kinds
 
-Need a writing pass for the kinds / species present across the land of snow and fog.
+Resolved.
 
-Reason:
-- several sea of clouds settlements now imply specific local populations
-- these should be written once at the broader regional level instead of being invented piecemeal inside settlement pages
+Core kinds were written into:
+- `thaum world/the great violet spiral/lux/gorath/land of snow and fog/index.md`
 
-Likely targets to account for:
-- frost-dwelling creatures along the outer walls of cloud breach castle
-- the winter-bound population of the village on the glacier coast
-- golems and snow bore beetles at masons rest
-- snow bore beetles and other boring kinds in the northern snow halls crossroads
+Follow-up still needed later:
+- align settlement pages with finalized kind names where needed
+- decide exact population for the village on the glacier coast
