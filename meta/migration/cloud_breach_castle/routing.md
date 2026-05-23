@@ -24,10 +24,6 @@ Canonized routing notes were removed after being written into the repo.
   - mental degeneration
   - trying to preserve consciousness across bodies
 
-### likely `science.md` or `thaumatry.md`
-- preserving consciousness across bodies
-- depends on whether the final writeup treats this as discovered mechanism or local magical practice
-
 ## non-canon or session-facing targets
 These look like tabletop planning, not canon-ready writing.
 

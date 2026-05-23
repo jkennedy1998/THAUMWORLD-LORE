@@ -39,7 +39,7 @@ sickness            : hypothermia, fungal infections thriving in humid environme
 exports             : military power & capable hands, knowledge, 
 imports             : food, electrically charged catalysts
 economy             : enough wealth generation that a class system has formed
-population amount   :
+population amount   : 1 - 2k
 general class       : middle / working, some lower, some more fortunate "elite" (relative to the local economy)
 family              : 
 travelers           : 
@@ -61,7 +61,7 @@ construction        : hewn and carved stone, some metals for heating elements, m
 government          : large governing body compared to the rest of the region. lawed land, guards, class, and an elite with an army
 views on government : the government mostly does what it needs and provides to those within the castle's bounds -- including the outer wall's
 substance views     : 
-thaumatry           : harnesses power from electrically charged thaumic catalysts from the thunderspire. heats indoor grow beds within greenhouses
+thaumatry           : harnesses power from electrically charged thaumic catalysts from the thunderspire. heats indoor grow beds within greenhouses. thaumic work within the settlement also includes efforts to preserve consciousness across bodies and stabilize long-term degeneration
 
 ---
 

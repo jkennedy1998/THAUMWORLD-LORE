@@ -17,12 +17,10 @@ groupings of matter, separated by space in the parent solar system.
 
 ---
 
-## land of snow and fog
+## [land of snow and fog](./land%20of%20snow%20and%20fog/)
 > a large continental landmass with oceans on the north, east, and west sides. the deep south at its southern border.
-
-### land of snow and fog
 
 ---
 
-## deep south
+## [deep south](./deep%20south/)
 > a large south polar continental landmass with the land of fog and snow on the north border

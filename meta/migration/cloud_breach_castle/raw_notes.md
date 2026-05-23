@@ -4,7 +4,6 @@ Source: pasted user notes.
 Keep as intake. Do not treat this file as canon.
 
 ## cloudbreach castle
-- population: 1 - 2k
 
 ## greenhat
 - a spire that stands as one of the most prominent buildings in cloudbreach castle
@@ -27,9 +26,6 @@ Keep as intake. Do not treat this file as canon.
 - mental degeneration, but they are still very capable
 - the mental degeneration is driving them crazy, more than the mental degeneration
 - its the looming fear of forgetting all you remembered
-- he is working on stabilizing the degeneration, but its a hard task
-- refining / preserving a consciousness over time across bodies
-- some say its magic, i say its science
 
 ## encounter and session notes
 - 6 encounters
