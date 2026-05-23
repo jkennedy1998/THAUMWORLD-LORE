@@ -4,8 +4,7 @@
 # characters
 > notable individuals associated with cloud breach castle
 
-> > parent :
-<https://www.thaumworld.world/thaum%20world/the%20great%20violet%20spiral/lux/gorath/sea%20of%20clouds/cloud%20breach%20castle>
+> > parent : [cloud breach castle](./)
 
 ---
 

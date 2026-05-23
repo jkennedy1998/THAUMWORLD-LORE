@@ -11,8 +11,7 @@
 > > ages : wild ages, new settlements, 
 
 > > facets : 
-> > > life
-<https://www.thaumworld.world/thaum%20world/the%20great%20violet%20spiral/lux/gorath/sea%20of%20clouds/life>
+> > > [life](./life)
 
 ---
 
@@ -50,12 +49,10 @@ thaumatry           : electrically charged thaumic catalysts from thunderspire s
 
 ## places
 
-### cloud breach castle
-<https://www.thaumworld.world/thaum%20world/the%20great%20violet%20spiral/lux/gorath/sea%20of%20clouds/cloud%20breach%20castle>
+### [cloud breach castle](./cloud%20breach%20castle/)
 the largest settlement in the region, lying to the east.
 
-### thunderspire
-<https://www.thaumworld.world/thaum%20world/the%20great%20violet%20spiral/lux/gorath/sea%20of%20clouds/thunderspire>
+### [thunderspire](./thunderspire/)
 the second largest settlement in the region, lying to the north.
 
 ### cloud gate outpost

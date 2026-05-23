@@ -21,7 +21,6 @@ groupings of matter, separated by space in the parent solar system.
 > a large continental landmass with oceans on the north, east, and west sides. the deep south at its southern border.
 
 ### land of snow and fog
-<https://www.thaumworld.world/thaum%20world/the%20great%20violet%20spiral/lux/gorath/land%20of%20snow%20and%20fog>
 
 ---
 

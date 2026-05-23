@@ -19,4 +19,4 @@ this section needs to be written. this is the galaxy that contains the land of s
 ### lux
 > a solar system similar to eath's sol system
 
-<https://www.thaumworld.world/thaum%20world/the%20great%20violet%20spiral/lux>
+[lux](./lux/)

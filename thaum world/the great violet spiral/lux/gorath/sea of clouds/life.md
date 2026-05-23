@@ -4,8 +4,7 @@
 ## sea of clouds life
 > the life that characteerises the sea of clouds
 
-> > parent index.md file : 
-<https://www.thaumworld.world/thaum%20world/the%20great%20violet%20spiral/lux/gorath/sea%20of%20clouds>
+> > parent index.md file : [sea of clouds](./)
 
 ---
 

@@ -11,8 +11,7 @@
 > > ages : proto forest, wild ages, new settlements, 
 
 > > facets : 
-> > > life
-<https://www.thaumworld.world/thaum%20world/the%20great%20violet%20spiral/lux/gorath/bladed%20forest/life>
+> > > [life](./life)
 
 ---
 
@@ -50,7 +49,6 @@ thaumatry           :
 
 ## places
 
-### village of the bladed forest
-<https://www.thaumworld.world/thaum%20world/the%20great%20violet%20spiral/lux/gorath/bladed%20forest/village%20of%20the%20bladed%20forest>
+### [village of the bladed forest](./village%20of%20the%20bladed%20forest/)
 those who live in the bladed forest maintain paths through the hazardous vegetation and winter growth.
 the village serves as the main settled refuge in the region.

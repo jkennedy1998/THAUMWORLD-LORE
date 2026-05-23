@@ -4,8 +4,7 @@
 ## bladed forest life
 > the life that characteerises the bladed forest
 
-> > parent index.md file : 
-<https://www.thaumworld.world/thaum%20world/the%20great%20violet%20spiral/lux/gorath/bladed%20forest>
+> > parent index.md file : [bladed forest](./)
 
 ---
 
@@ -14,7 +13,7 @@ the bladed forest is home to a large amount of variations of thick leafed foliag
 some say the bladed plants help sway off the grazers of the dry plains, 
 on the south border of the bladed forest.
 
-<https://www.thaumworld.world/thaum%20world/the%20great%20violet%20spiral/lux/gorath/dry%20plains>
+[dry plains](../dry%20plains/)
 
 ---
 
