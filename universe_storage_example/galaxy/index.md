@@ -1,7 +1,7 @@
 ---
 ---
 
-# galaxy
+# <a class="title-parent-link" href="../">universe</a> <span class="title-separator">:</span> <span class="title-current">galaxy</span>
 > a cluster of solar_systems 
 > > scale : galaxy
 > > ages : proto_galaxy, star_burst, main_phase_1, main_phase_2, quenching, red, post_red
