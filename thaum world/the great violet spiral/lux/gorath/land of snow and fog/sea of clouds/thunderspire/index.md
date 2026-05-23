@@ -34,7 +34,7 @@ it remains smaller than cloud breach castle, but stands as one of the region's m
 <div class="detail-row"><span class="detail-label">exports          :</span><span class="detail-value">electrically charged catalysts, knowledge, research, and thunder-related materials</span></div>
 <div class="detail-row"><span class="detail-label">imports          :</span><span class="detail-value">food, supplies, and practical resources</span></div>
 <div class="detail-row"><span class="detail-label">economy          :</span><span class="detail-value">supported by study, religion, patrons, exchange, and catalyst work</span></div>
-<div class="detail-row"><span class="detail-label">population      :</span><span class="detail-value"></span></div>
+<div class="detail-row"><span class="detail-label">population       :</span><span class="detail-value"></span></div>
 <div class="detail-row"><span class="detail-label">general class    :</span><span class="detail-value">intellectual, spiritual, and research workers</span></div>
 <div class="detail-row"><span class="detail-label">family           :</span><span class="detail-value"></span></div>
 <div class="detail-row"><span class="detail-label">travelers        :</span><span class="detail-value">curious mages, researchers, and religious visitors</span></div>
@@ -46,13 +46,13 @@ it remains smaller than cloud breach castle, but stands as one of the region's m
 <div class="detail-row"><span class="detail-label">social taboo     :</span><span class="detail-value"></span></div>
 <div class="detail-row"><span class="detail-label">local legend     :</span><span class="detail-value"></span></div>
 <div class="detail-row"><span class="detail-label">name origin      :</span><span class="detail-value">named for the natural thunderspire at its center</span></div>
-<div class="detail-row"><span class="detail-label">early age       :</span><span class="detail-value">a religious settlement focused on a local thunder deity</span></div>
+<div class="detail-row"><span class="detail-label">early age        :</span><span class="detail-value">a religious settlement focused on a local thunder deity</span></div>
 <div class="detail-row"><span class="detail-label">current purpose  :</span><span class="detail-value">a settlement for worship, research, the study of electricity, and the making of electrically charged catalysts</span></div>
 <div class="detail-row"><span class="detail-label">defences         :</span><span class="detail-value"></span></div>
 <div class="detail-row"><span class="detail-label">land utilization :</span><span class="detail-value">centered on the thunderspire and its surrounding settlement spaces</span></div>
 <div class="detail-row"><span class="detail-label">infrastructure   :</span><span class="detail-value"></span></div>
 <div class="detail-row"><span class="detail-label">construction     :</span><span class="detail-value">built around a natural lightning rod formed from cooled volcanic metal left standing after softer rock eroded away</span></div>
 <div class="detail-row"><span class="detail-label">government       :</span><span class="detail-value">held together more by religious and scientific clans than by a formal state structure</span></div>
-<div class="detail-row"><span class="detail-label">nation          :</span><span class="detail-value"></span></div>
+<div class="detail-row"><span class="detail-label">nation           :</span><span class="detail-value"></span></div>
 <div class="detail-row"><span class="detail-label">substance views  :</span><span class="detail-value"></span></div>
 <div class="detail-row"><span class="detail-label">thaumatry        :</span><span class="detail-value">thunder knowledge, worship, electrically charged thaumic study, and rune practice tied to thunderous boom, lightbomb, and charge</span></div>
