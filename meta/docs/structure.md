@@ -5,11 +5,15 @@
 - galaxy
 - solar_system
 - celestial_body
+- map
 - region
 - place
 
 All scales may have child folders.
 Every folder is a page through its `index.md`.
+Celestial bodies link directly to maps.
+Maps contain regions.
+Regions contain places.
 
 ## Canonical facets
 - geography
@@ -59,5 +63,6 @@ A promoted child should stay reachable from its parent page or facet.
 ## Scale use
 - large scales hold broad truths and overview
 - middle scales hold major world structure and subdivision
-- region is the main local worldbuilding scale
-- place is the smallest formal scale and is useful for play-facing detail
+- `map` is mostly a travel area
+- `region` is mostly a local cluster
+- `place` is mostly a single owned site

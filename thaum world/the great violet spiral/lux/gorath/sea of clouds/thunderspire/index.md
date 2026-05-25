@@ -5,7 +5,7 @@
 the second largest settlement in the <a href="../">sea of clouds</a>, known for religion, study, and thunder knowledge
 
 <div class="meta-block">
-<div class="meta-row"><span class="meta-label">scale   :</span><span class="meta-value">place</span></div>
+<div class="meta-row"><span class="meta-label">scale   :</span><span class="meta-value">region</span></div>
 <div class="meta-row"><span class="meta-label">ages    :</span><span class="meta-value">proto settlement, homestead, age of honing</span></div>
 <div class="meta-row"><span class="meta-label">facets  :</span><span class="meta-value">none</span></div>
 </div>
@@ -17,7 +17,7 @@ thunderspire started as a small religious community in the sea of clouds, dedica
 over time, the community grew into a settlement of spiritual workers, curious mages, and researchers studying the unique properties of electricity.
 it is built around a natural thunderspire where lightning regularly strikes, treated as both sacred site and source of study.
 
-it remains smaller than cloud breach castle, but stands as one of the region's major centers of religion, study, and specialized knowledge.
+it remains smaller than cloud breach castle, but stands as one of the map's major centers of religion, study, and specialized knowledge.
 
 ---
 

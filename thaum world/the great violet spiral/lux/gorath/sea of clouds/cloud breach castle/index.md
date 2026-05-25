@@ -5,7 +5,7 @@
 the largest settlement in the <a href="../">sea of clouds</a>, built into a wet mountain above the cloudline
 
 <div class="meta-block">
-<div class="meta-row"><span class="meta-label">scale   :</span><span class="meta-value">place</span></div>
+<div class="meta-row"><span class="meta-label">scale   :</span><span class="meta-value">region</span></div>
 <div class="meta-row"><span class="meta-label">age     :</span><span class="meta-value">age of lux to age of golem</span></div>
 <div class="meta-row"><span class="meta-label">ages    :</span><span class="meta-value">proto settlement, homestead, age of honing, age of expansion, age of class</span></div>
 <div class="meta-row"><span class="meta-label">facets  :</span><span class="meta-value"><a href="./characters">characters</a></span></div>
@@ -42,7 +42,7 @@ its constant heat can be felt well before arrival, and has made the nearby slope
 <div class="detail-row"><span class="detail-label">population       :</span><span class="detail-value">1 - 2k</span></div>
 <div class="detail-row"><span class="detail-label">general class    :</span><span class="detail-value">largely working class, with many soldiers, mages, and traders. only a small royal class stands above them</span></div>
 <div class="detail-row"><span class="detail-label">family           :</span><span class="detail-value">some families of frost-dwelling creatures live along the outer walls</span></div>
-<div class="detail-row"><span class="detail-label">travelers        :</span><span class="detail-value">constant traffic moving through the settlement, especially from the deep south and southern reaches of the land of snow and fog, with some travelers choosing to stay</span></div>
+<div class="detail-row"><span class="detail-label">travelers        :</span><span class="detail-value">constant traffic moving through the settlement, especially from the southern reaches of gorath, with some travelers choosing to stay</span></div>
 <div class="detail-row"><span class="detail-label">deities          :</span><span class="detail-value"></span></div>
 <div class="detail-row"><span class="detail-label">population kind  :</span><span class="detail-value"></span></div>
 <div class="detail-row"><span class="detail-label">languages        :</span><span class="detail-value"></span></div>

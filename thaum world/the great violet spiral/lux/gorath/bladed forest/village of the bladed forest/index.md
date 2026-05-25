@@ -5,7 +5,7 @@
 a small village within the <a href="../">bladed forest</a>, known for path keeping
 
 <div class="meta-block">
-<div class="meta-row"><span class="meta-label">scale   :</span><span class="meta-value">place</span></div>
+<div class="meta-row"><span class="meta-label">scale   :</span><span class="meta-value">region</span></div>
 <div class="meta-row"><span class="meta-label">ages    :</span><span class="meta-value">proto settlement, homestead, age of honing</span></div>
 <div class="meta-row"><span class="meta-label">facets  :</span><span class="meta-value">none</span></div>
 </div>
@@ -17,7 +17,7 @@ the village of the bladed forest is a small settlement within the central parts 
 it is home to many who care deeply about the forest and survive by maintaining paths through its dangerous growth.
 
 naked apes, black coastling avians, sprites, and some post dead call this place home.
-it serves as a settled refuge in a region where winter travel is dangerous and the land is never fully tamed.
+it serves as a settled refuge on a map where winter travel is dangerous and the land is never fully tamed.
 
 ---
 

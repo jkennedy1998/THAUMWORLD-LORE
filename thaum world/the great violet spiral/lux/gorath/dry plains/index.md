@@ -1,11 +1,11 @@
 ---
 ---
 
-# <a class="title-parent-link" href="../">land of snow and fog</a> <span class="title-separator">:</span> <span class="title-current">dry plains</span>
-broad plains of grasses and low vegetation within the <a href="../">land of snow and fog</a>, known for grazing herds and open country
+# <a class="title-parent-link" href="../">gorath</a> <span class="title-separator">:</span> <span class="title-current">dry plains</span>
+broad plains map of gorath, known for grasses, low vegetation, grazing herds, and open country
 
 <div class="meta-block">
-<div class="meta-row"><span class="meta-label">scale   :</span><span class="meta-value">region</span></div>
+<div class="meta-row"><span class="meta-label">scale   :</span><span class="meta-value">map</span></div>
 <div class="meta-row"><span class="meta-label">age     :</span><span class="meta-value">age of lux to age of golem</span></div>
 <div class="meta-row"><span class="meta-label">ages    :</span><span class="meta-value">proto planes, growth,</span></div>
 <div class="meta-row"><span class="meta-label">facets  :</span><span class="meta-value">none</span></div>
@@ -19,7 +19,7 @@ it stands in contrast to the bladed forest, with broader open land and easier lo
 
 ---
 
-## region details
+## map details
 
 <div class="detail-row"><span class="detail-label">spring nutrients :</span><span class="detail-value">grasses, low vegetation, and grazing life</span></div>
 <div class="detail-row"><span class="detail-label">summer nutrients :</span><span class="detail-value">grasses, low vegetation, abundant grazing, and hunting fauna</span></div>
@@ -45,4 +45,4 @@ it stands in contrast to the bladed forest, with broader open land and easier lo
 ## places
 
 ### plainsnest
-the main named settlement of the region.
+the main named settlement of the map.

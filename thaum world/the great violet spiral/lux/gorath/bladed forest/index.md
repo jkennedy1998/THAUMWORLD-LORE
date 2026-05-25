@@ -1,11 +1,11 @@
 ---
 ---
 
-# <a class="title-parent-link" href="../">land of snow and fog</a> <span class="title-separator">:</span> <span class="title-current">bladed forest</span>
-a cold, wet forest within the <a href="../">land of snow and fog</a>, known for its unrelenting and dangerous winters
+# <a class="title-parent-link" href="../">gorath</a> <span class="title-separator">:</span> <span class="title-current">bladed forest</span>
+a cold, wet forest map of gorath, known for its unrelenting and dangerous winters
 
 <div class="meta-block">
-<div class="meta-row"><span class="meta-label">scale     :</span><span class="meta-value">region</span></div>
+<div class="meta-row"><span class="meta-label">scale     :</span><span class="meta-value">map</span></div>
 <div class="meta-row"><span class="meta-label">age       :</span><span class="meta-value">age of lux to age of golem</span></div>
 <div class="meta-row"><span class="meta-label">ages      :</span><span class="meta-value">proto forest, wild ages, new settlements</span></div>
 <div class="meta-row"><span class="meta-label">facets    :</span><span class="meta-value"><a href="./life">life</a></span></div>
@@ -22,7 +22,7 @@ the village of the bladed forest welcomes travelers willing to help keep those r
 
 ---
 
-## region details
+## map details
 
 <div class="detail-row"><span class="detail-label">spring nutrients :</span><span class="detail-value">foraged growth, hunted wildlife, village stores</span></div>
 <div class="detail-row"><span class="detail-label">summer nutrients :</span><span class="detail-value">foraged growth, hunted wildlife, local gathering</span></div>
@@ -45,8 +45,8 @@ the village of the bladed forest welcomes travelers willing to help keep those r
 
 ---
 
-## places
+## regions
 
 ### [village of the bladed forest](./village%20of%20the%20bladed%20forest/)
 those who live in the bladed forest maintain paths through the hazardous vegetation and winter growth.
-the village serves as the main settled refuge in the region.
+the village serves as the main settled refuge on the map.

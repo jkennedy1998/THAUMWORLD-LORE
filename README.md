@@ -10,6 +10,10 @@ Canonical lore repo for thaumworld.
 ## How it works
 - every folder is a page through its `index.md`
 - scale determines where content lives
+- celestial bodies link directly to maps
+- maps are mostly travel areas
+- regions are mostly local clusters
+- places are mostly single owned sites
 - time determines when content is relevant in context
 - facets split detail when a page gets too dense
 
@@ -18,6 +22,7 @@ Canonical lore repo for thaumworld.
 - galaxy
 - solar_system
 - celestial_body
+- map
 - region
 - place
 

@@ -24,10 +24,14 @@ If a page gets too dense, split detail into facet files or child folders.
 - galaxy
 - solar_system
 - celestial_body
+- map
 - region
 - place
 
 All scales may have child folders.
+Celestial bodies link directly to maps.
+Maps contain regions.
+Regions contain places.
 A thing should live at the smallest scale that meaningfully owns it.
 
 ---
@@ -55,6 +59,11 @@ Not every page needs every facet.
 Use facets only when they improve readability.
 
 ---
+
+## scale_use
+- `map` : mostly a travel area
+- `region` : mostly a local cluster
+- `place` : mostly a single owned site
 
 ## promotion
 A thing grows like this:

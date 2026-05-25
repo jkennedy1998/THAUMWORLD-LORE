@@ -1,11 +1,11 @@
 ---
 ---
 
-# <a class="title-parent-link" href="../">land of snow and fog</a> <span class="title-separator">:</span> <span class="title-current">sea of clouds</span>
-a frigid mountainous region within the south east of the <a href="../">land of fog and snow</a>
+# <a class="title-parent-link" href="../">gorath</a> <span class="title-separator">:</span> <span class="title-current">sea of clouds</span>
+a frigid mountainous map of gorath, known for dense cloud cover, runoff, and old snow hall infrastructure
 
 <div class="meta-block">
-<div class="meta-row"><span class="meta-label">scale   :</span><span class="meta-value">region</span></div>
+<div class="meta-row"><span class="meta-label">scale   :</span><span class="meta-value">map</span></div>
 <div class="meta-row"><span class="meta-label">age     :</span><span class="meta-value">age of lux to age of golem</span></div>
 <div class="meta-row"><span class="meta-label">ages    :</span><span class="meta-value">wild ages, new settlements,</span></div>
 <div class="meta-row"><span class="meta-label">facets  :</span><span class="meta-value"><a href="./life">life</a></span></div>
@@ -14,15 +14,15 @@ a frigid mountainous region within the south east of the <a href="../">land of f
 ---
 
 ## nutshell
-the sea of clouds is a cold mountainous region marked by unusual humidity, fertile soil, permafrost, runoff, and a wide range of plant, insect, and mammal life.
-its major settlements are cloud breach castle in the east and thunderspire in the north, with smaller settlements and outposts spread across the region.
+the sea of clouds is a cold mountainous map marked by unusual humidity, fertile soil, permafrost, runoff, and a wide range of plant, insect, and mammal life.
+its major settlements are cloud breach castle in the east and thunderspire in the north, with smaller settlements and outposts spread across the map.
 
-older snow hall transit infrastructure runs beneath parts of the region, though much of it is now abandoned.
+older snow hall transit infrastructure runs beneath parts of the map, though much of it is now abandoned.
 near the center lies an abandoned snow hall haven once occupied by bug folk from the south, now overrun by ice drakes and wolf ants.
 
 ---
 
-## region details
+## map details
 
 <div class="detail-row"><span class="detail-label">spring nutrients :</span><span class="detail-value">plant growth, hunted wildlife, and trade-supported settlement stores</span></div>
 <div class="detail-row"><span class="detail-label">summer nutrients :</span><span class="detail-value">fertile plant life, hunted wildlife, and seasonal gathering</span></div>
@@ -37,7 +37,7 @@ near the center lies an abandoned snow hall haven once occupied by bug folk from
 <div class="detail-row"><span class="detail-label">languages        :</span><span class="detail-value"></span></div>
 <div class="detail-row"><span class="detail-label">deities          :</span><span class="detail-value"></span></div>
 <div class="detail-row"><span class="detail-label">local legend     :</span><span class="detail-value"></span></div>
-<div class="detail-row"><span class="detail-label">name origin      :</span><span class="detail-value">named for the dense cloud cover that fills the region below many of its heights</span></div>
+<div class="detail-row"><span class="detail-label">name origin      :</span><span class="detail-value">named for the dense cloud cover that fills the map below many of its heights</span></div>
 <div class="detail-row"><span class="detail-label">infrastructure   :</span><span class="detail-value">old snow hall transit networks, settlement routes, and maintained roads between inhabited areas</span></div>
 <div class="detail-row"><span class="detail-label">construction     :</span><span class="detail-value"></span></div>
 <div class="detail-row"><span class="detail-label">governments      :</span><span class="detail-value">mostly local settlement rule, with cloud breach castle the strongest formal government and thunderspire held together more by religious and scientific clans</span></div>
@@ -45,13 +45,13 @@ near the center lies an abandoned snow hall haven once occupied by bug folk from
 
 ---
 
-## places
+## regions
 
 ### [cloud breach castle](./cloud%20breach%20castle/)
-the largest settlement in the region, lying to the east.
+the largest settlement cluster on the map, lying to the east.
 
 ### [thunderspire](./thunderspire/)
-the second largest settlement in the region, lying to the north.
+the second largest settlement cluster on the map, lying to the north.
 
 ### cloud gate outpost
 lies to the north east. a small but often traveled stop for sleep, light trade, and the exchange of ideas.
@@ -66,4 +66,4 @@ lies to the south west. known for masons, golems, and snow bore beetles.
 lies to the south east, just off the map, within the older underground network. snow bore beetles and other boring kinds use these shifting tunnel routes heavily.
 
 ### abandoned snow hall haven
-near the center of the region. once occupied by bug folk from the south, now abandoned and overrun.
+near the center of the map. once occupied by bug folk from the south, now abandoned and overrun.

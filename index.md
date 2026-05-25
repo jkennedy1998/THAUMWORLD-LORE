@@ -13,6 +13,8 @@ this website / file structure system uses index.md files hosted through github p
 
 > every folder is a “page” via its local index.md
 
+> pages are organized by scale : celestial_body -> map -> region -> place
+
 > every page has sub pages so that main pages dont become over populated
 
 ---

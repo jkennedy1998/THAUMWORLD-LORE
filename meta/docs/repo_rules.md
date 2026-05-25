@@ -4,6 +4,10 @@
 - everything in the repo is canonical
 - pages describe reality, records, and events that canonically exist
 - scale determines where content lives
+- celestial bodies link directly to maps
+- maps are mostly travel areas
+- regions are mostly local clusters
+- places are mostly single owned sites
 - time determines when content is relevant, visible, or true in context
 - subpages handle specificity, not uncertainty
 - formatting should stay lightweight and minimal
