@@ -42,6 +42,22 @@ Use it to declare scale, age, child ages, and linked facets.
 
 ---
 
+## page_sections
+A canon page usually works in layers:
+- title and one-line descriptor
+- meta block
+- `nutshell`
+- structured details
+- child lists or facet links
+
+The `nutshell` is reader-facing.
+It should sound like a person describing the world, not like an internal planning document.
+Use it for feel, distinctiveness, and the memorable shape of the place.
+Use the detail rows for compact factual reference.
+Keep repo-facing wording in `meta/`, not in canon prose.
+
+---
+
 ## facets
 Facets are sibling markdown files used to split content by type.
 Use the canonical facet list:

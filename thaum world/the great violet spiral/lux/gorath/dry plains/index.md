@@ -14,11 +14,10 @@ a broad cold plains map of gorath, known for sedges, low foliage, grazing herds,
 ---
 
 ## nutshell
-the dry plains is a large, non-uniform cold map lying south of the bladed forest and north of the frozen desert.
-it is broader than the bladed forest and supports sedges, low foliage, sparse taller growth, grazing life, trade routes, and wildfire-prone open country.
+the dry plains are a cold open land of sedges, low growth, sparse taller foliage, dangerous herds, and fast-moving fire.
+though drier than the bladed forest to the north, they are not empty. plainsnest rises here as a major city of the black coastlings, and long roads carry traders, hunters, soldiers, and working people across the open country.
 
-plainsnest is the largest written settlement on the map, a black coastling city about the size of cloud breach castle.
-the dry plains also connects outward toward the coastal forests and high marshlands, making it a broad travel and trade space rather than a single settled cluster.
+in the east the land grows wetter from mountain runoff, while the forest border shows itself in a visible belt where grasses begin to harden into sharper growth.
 
 ---
 

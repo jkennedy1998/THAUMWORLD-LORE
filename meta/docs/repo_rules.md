@@ -17,6 +17,27 @@
 Use canon-facing folders for in-universe writing only.
 Keep pages factual, scale-bound, and time-bound.
 
+## Canon page voice
+- canon pages are reader-facing, not writer-facing
+- write as if describing the world to someone learning it, not as planning notes to ourselves
+- lead with what a traveler, resident, or listener would notice first
+- keep classification and scaffolding language out of prose when possible
+- use `meta/` for writer-facing notes like routing, uncertainty, TODOs, or implementation framing
+
+### Nutshell style
+- the `nutshell` should read like a short setting introduction
+- it should be evocative first and structural second
+- prefer concrete world-facing language over organizer language
+- good `nutshell` text tells the reader what the place feels like, what defines it, and why it matters
+- put raw reference facts in detail rows, not in stiff summary prose
+
+### Avoid in canon prose
+- "this page contains"
+- "this map contains"
+- "written settlement"
+- "broad travel and trade space"
+- other repo-facing or implementation-facing phrasing unless truly necessary
+
 ## `meta/`
 Use `meta/` for non-public work.
 This is the messy planning zone.
