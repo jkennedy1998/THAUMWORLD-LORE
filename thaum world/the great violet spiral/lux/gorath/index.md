@@ -8,7 +8,7 @@ the planet which contains the current written maps of the setting
 <div class="meta-row"><span class="meta-label">scale   :</span><span class="meta-value">celestial body</span></div>
 <div class="meta-row"><span class="meta-label">age     :</span><span class="meta-value">proto planet to post death</span></div>
 <div class="meta-row"><span class="meta-label">ages    :</span><span class="meta-value">proto planet, differentiation, atmospheric formation, thermal peak, age of animal, age of darkness , age of bread, age of lux ,age of golem ,age of electricity , ... ,heat death, post death</span></div>
-<div class="meta-row"><span class="meta-label">facets  :</span><span class="meta-value">see the maps section</span></div>
+<div class="meta-row"><span class="meta-label">facets  :</span><span class="meta-value"><a href="./culture">culture</a>, see the maps section</span></div>
 </div>
 
 groupings of matter, separated by space in the parent solar system.
